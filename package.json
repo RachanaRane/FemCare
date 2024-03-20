@@ -10,17 +10,20 @@
     "axios": "^1.5.1",
     "crypto-browserify": "^3.12.0",
     "https-browserify": "^1.0.0",
+    "lodash": "^4.17.1",
     "multer": "^1.4.5-lts.1",
     "net": "^1.0.2",
+    "nth-check": "^2.1.1",
     "path": "^0.12.7",
+    "postcss": "^8.4.31",
     "qrcode.react": "^3.1.0",
     "querystring-es3": "^0.2.1",
-    "razorpay": "^2.9.2",
+    "razorpay": "^0.0.0",
     "react": "^18.2.0",
     "react-calendar": "^4.6.0",
     "react-dom": "^18.2.0",
     "react-router-dom": "^6.16.0",
-    "react-scripts": "5.0.1",
+    "react-scripts": "^5.0.1",
     "stream-browserify": "^3.0.0",
     "stream-http": "^3.2.0",
     "tls": "^0.0.1",
@@ -50,5 +53,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC"
 }
